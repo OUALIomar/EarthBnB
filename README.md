@@ -3,7 +3,6 @@ EarthBnB is a JAVA distributed application, enabling users to rent appart
 
 #### ReadME in French ####
 
-IMPORTANT:
 	> Le mot de passe de l'admin est "admin" et son mail "earthbnb@gmail.com"
 	> On ne peut pas acceder aux espaces loueurs ou locataires qu'apres inscription et cette inscription vous donnes acces aux deux espaces
 	> Le chemin des fichiers xml (initialement vide juste avec le format adéquat) doit etre defini dans la classe  constantes,attribut "path_xml"
